@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{B6D13B26-AE25-7346-55DB-16EE7C76CCAA}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/List.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Humanoid.cs">
     <Files>
       <File FileName="Assets/Conditionals.cs" Line="11" Column="3" />
       <File FileName="Assets/List.cs" Line="11" Column="21" />
+      <File FileName="Assets/UpFunction.cs" Line="19" Column="31" />
+      <File FileName="Assets/Humanoid.cs" Line="14" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
