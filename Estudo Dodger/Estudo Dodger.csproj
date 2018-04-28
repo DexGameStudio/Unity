@@ -271,7 +271,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MorteUI.cs" />
     <Compile Include="Assets\SBar.cs" />
+    <Compile Include="Assets\Scripts\BarraVida.cs" />
     <Compile Include="Assets\Scripts\bnt.cs" />
     <Compile Include="Assets\Scripts\EnemyGreen\EnemyGreenController.cs" />
     <Compile Include="Assets\Scripts\EnemyGreen\EnemySpawnGreenControl.cs" />
@@ -281,10 +283,12 @@
     <Compile Include="Assets\Scripts\EnemyRed\EnemySpawnRedControl.cs" />
     <Compile Include="Assets\Scripts\EnemyYellow\EnemySpawnYellowControl.cs" />
     <Compile Include="Assets\Scripts\EnemyYellow\EnemyYellowController.cs" />
+    <Compile Include="Assets\Scripts\EventAnim.cs" />
     <Compile Include="Assets\Scripts\GameMenu.cs" />
     <Compile Include="Assets\Scripts\GerenciadorDeMusicas.cs" />
     <Compile Include="Assets\Scripts\PlayerControll.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Potion.cs" />
     <Compile Include="Assets\Scripts\ScrollingWithPlayer.cs" />
     <Compile Include="Assets\Scripts\scrollRawImage.cs" />
     <Compile Include="Assets\Scripts\ScrollUIV.cs" />
