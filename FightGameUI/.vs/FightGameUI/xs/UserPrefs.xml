@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{C9BDB0E4-5F7A-052E-720B-983AE2D3F5FF}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player01UIController.cs">
     <Files>
-      <File FileName="Assets/Scripts/Player01UIController.cs" Line="7" Column="5" />
+      <File FileName="Assets/Scripts/Player01UIController.cs" Line="105" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.FightGameUI PreferredExecutionTarget="Unity.Editor" />
